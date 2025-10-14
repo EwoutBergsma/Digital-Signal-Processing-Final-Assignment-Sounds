@@ -1,0 +1,3 @@
+# ignore any python file or jupyter notebook
+*.py
+*.ipynb
